@@ -1,10 +1,10 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Minolta Camera Co.. Ltd.
+    detail: Minolta Camera Co., Ltd.
     i18n: company_a
   desc:
-    detail: I started working.
+    detail: Toyokawa Aichi, Japan
     i18n: company_a_desc
   date:
     detail: Apr. 1989
@@ -18,7 +18,7 @@
     detail: Minolta GmbH
     i18n: company_b
   desc:
-    detail: Moved to European headquarter
+    detail: Langenhagen Germany
     i18n: company_b_desc
   date:
     detail: Apr. 1993
@@ -32,7 +32,7 @@
     detail: Minolta Systems Laboratory Inc.
     i18n: company_c
   desc:
-    detail: Moved to U.S. development center
+    detail: Irvine California, U.S.A.
     i18n: company_c_desc
   date:
     detail: Apr. 1997
@@ -46,7 +46,7 @@
     detail: Ricoh Co., Ltd.
     i18n: company_d
   desc:
-    detail: Joined Ricoh as a software engineer
+    detail: Ota-ku, Japan
     i18n: company_d_desc
   date:
     detail: May. 2003
@@ -54,4 +54,32 @@
   job:
     detail: Specialist
     i18n: company_d_job
+  icon: fa-plus-square  
+
+- name:
+    detail: Ricoh Co., Ltd.
+    i18n: company_d
+  desc:
+    detail: Ota-ku, Japan
+    i18n: company_d_desc
+  date:
+    detail: Oct. 2006
+    i18n: company_d_date
+  job:
+    detail: Manager
+    i18n: company_d_job
+  icon: fa-plus-square  
+  
+  - name:
+    detail: Ricoh Co., Ltd.
+    i18n: company_e
+  desc:
+    detail: Ebina Kanagawa, Japan
+    i18n: company_e_desc
+  date:
+    detail: May. 2003
+    i18n: company_e_date
+  job:
+    detail: Manager
+    i18n: company_e_job
   icon: fa-plus-square  
