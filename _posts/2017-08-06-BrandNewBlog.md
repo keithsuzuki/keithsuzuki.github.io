@@ -1,2 +1,12 @@
+---
+layout: post
+title:  "ブログを作り直しました"
+date:   2017-01-31
+desc: "Jalpcのテーマで見栄え良く"
+keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
+categories: [HTML]
+tags: [Jalpc,Jekyll]
+icon: icon-html
+---
 これまでも[Jekkyl Now](http://plus.appgiga.jp/masatolan/2015/01/13/55047/)でGithub上にBlogを作ってみてはいたけれど、全く書いてなかった。  
-これから、いろいろ起きそうだから、書いていくことにしようかな。
+これから、いろいろ起きそうだから、書いていくことにしようかと思います。
