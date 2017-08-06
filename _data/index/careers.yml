@@ -58,28 +58,28 @@
 
 - name:
     detail: Ricoh Co., Ltd.
-    i18n: company_d
-  desc:
-    detail: Ota-ku, Japan
-    i18n: company_d_desc
-  date:
-    detail: Oct. 2006
-    i18n: company_d_date
-  job:
-    detail: Manager
-    i18n: company_d_job
-  icon: fa-plus-square  
-  
-  - name:
-    detail: Ricoh Co., Ltd.
     i18n: company_e
   desc:
-    detail: Ebina Kanagawa, Japan
+    detail: Ota-ku, Japan
     i18n: company_e_desc
   date:
-    detail: May. 2003
+    detail: Oct. 2006
     i18n: company_e_date
   job:
     detail: Manager
     i18n: company_e_job
+  icon: fa-plus-square  
+  
+- name:
+    detail: Ricoh Co., Ltd.
+    i18n: company_f
+  desc:
+    detail: Ebina Kanagawa, Japan
+    i18n: company_f_desc
+  date:
+    detail: May. 2003
+    i18n: company_f_date
+  job:
+    detail: Manager
+    i18n: company_f_job
   icon: fa-plus-square  
