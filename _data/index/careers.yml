@@ -18,7 +18,7 @@
     detail: Minolta GmbH
     i18n: company_b
   desc:
-    detail: Langenhagen Germany
+    detail: Langenhagen, Germany
     i18n: company_b_desc
   date:
     detail: Apr. 1993
@@ -46,7 +46,7 @@
     detail: Ricoh Co., Ltd.
     i18n: company_d
   desc:
-    detail: Ota-ku, Japan
+    detail: Ota-ku Tokyo, Japan
     i18n: company_d_desc
   date:
     detail: May. 2003
