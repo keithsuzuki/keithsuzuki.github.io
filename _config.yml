@@ -15,7 +15,7 @@ author:  # change following line to your infomation.
   first_name: Keith  # Be used at index page about me section.
   last_name: Suzuki  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
-  github_username: keithsuzuki  # Leave blank if you don't have now
+  github_username: keith suzuki （鈴木克知）  # Leave blank if you don't have now
   linkedin_id: keithsuzuki # Leave blank if you don't have now
   facebook_username: keithsuzuki  # Leave blank if you don't have now
   twitter_username: keithsuzuki  # Leave blank if you don't have now
