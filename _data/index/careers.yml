@@ -10,7 +10,7 @@
     detail: Apr. 1989
     i18n: company_a_date
   job:
-    detail: Embeded software engineer
+    detail: Junior Software Engineer
     i18n: company_a_job
   icon: fa-plus-square
 
@@ -38,7 +38,7 @@
     detail: Apr. 1997
     i18n: company_c_date
   job:
-    detail: Senior engineer
+    detail: Senior Software Engineer
     i18n: company_c_job
   icon: fa-plus-square
   
@@ -52,7 +52,7 @@
     detail: May. 2003
     i18n: company_d_date
   job:
-    detail: Specialist
+    detail: Software Specialist
     i18n: company_d_job
   icon: fa-plus-square  
 
@@ -66,7 +66,7 @@
     detail: Oct. 2006
     i18n: company_e_date
   job:
-    detail: Manager
+    detail: Manager Printing Products
     i18n: company_e_job
   icon: fa-plus-square  
 
